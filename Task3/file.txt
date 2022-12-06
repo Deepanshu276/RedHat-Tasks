@@ -1,0 +1,2 @@
+this is me learning te bash programthis is the file append method
+
