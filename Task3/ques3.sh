@@ -1,4 +1,5 @@
 #! /usr/bin/bash
+
 #Method 1
 #Time Complexity -----------> O(n)
 

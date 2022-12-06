@@ -1,4 +1,5 @@
 #! /usr/bin/bash
+
 #Extracting Various Component of Dates
 Year=`date +%Y`
 Month=`date +%m`
