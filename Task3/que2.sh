@@ -1,4 +1,5 @@
 #Method 1 Using awk 
+
 #Time Complexity -----> O(n)
 awk '!a[$0]++' que2.txt
 

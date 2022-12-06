@@ -1,6 +1,7 @@
 #! /usr/bin/bash
 #Method 1
 #Time Complexity -----------> O(n)
+
 arr=($(cat ques3.txt | sed  's/[^0-9]//g'))
 echo "${arr[@]}"
 sum=0
