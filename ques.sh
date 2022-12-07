@@ -1,5 +1,7 @@
 #! /usr/bin/bash
 
+
+
 #Method 1-----> This method will not count spaces although they will count the alphabet present in the file
 #Time Complexity: O(N)
 #Space Complexity: O(N)
