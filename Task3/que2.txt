@@ -1,0 +1,135 @@
+In 1993, Bob      Young incorporated the ACC Corporation, a catalog business that sold Linux and Unix software accessories. In 1994, Marc Ewing created his own Linux distribution, which he named Red Hat Linux[15] (associated with the time Ewing wore a red Cornell University lacrosse hat, given to him by his grandfather, while attending Carnegie Mellon University[16][17][18]). Ewing released the software in October, and it became known as the Halloween release. Young bought Ewing's business in 1995,[clarification needed] and the two merged to become Red Hat Software, with Young serving as chief executive officer (CEO).
+
+Red Hat went public on August 11, 1999, achieving—at the time—the eighth-biggest first-day gain in the history of Wall Street.[15] Matthew Szulik succeeded Bob Young as CEO in December of that year.[19] Bob Young went on to found the online print on demand and self-publishing company, Lulu in 2002.
+
+On November 15, 1999, Red Hat acquired Cygnus Solutions. Cygnus provided commercial support for free software and housed maintainers of GNU software products such as the GNU Debugger and GNU Binutils. One of the founders of Cygnus, Michael Tiemann, became the chief technical officer of Red Hat and by 2008 the vice president of open-source affairs. Later Red Hat acquired WireSpeed, C2Net and Hell's Kitchen Systems.[20]
+
+In February 2000, InfoWorld awarded Red Hat its fourth consecutive "Operating System Product of the Year" award for Red Hat Linux 6.1.[21] Red Hat acquired Planning Technologies, Inc. in 2001 and AOL's iPlanet directory and certificate-server software in 2004.
+
+Red Hat moved its headquarters from Durham to North Carolina State University's Centennial Campus in Raleigh, North Carolina in February 2002. In the following month Red Hat introduced Red Hat Linux Advanced Server,[22][23] later renamed Red Hat Enterprise Linux (RHEL). Dell,[24] IBM,[25] HP[26] and Oracle Corporation[27] announced their support of the platform.[28]
+
+In December 2005, CIO Insight magazine conducted its annual "Vendor Value Survey", in which Red Hat ranked #1 in value for the second year in a row.[29] Red Hat stock became part of the NASDAQ-100 on December 19, 2005.
+
+Red Hat acquired open-source middleware provider JBoss on June 5, 2006, and JBoss became a division of Red Hat. On September 18, 2006, Red Hat released the Red Hat Application Stack, which integrated the JBoss technology and which was certified by other well-known software vendors.[30][31] On December 12, 2006, Red Hat stock moved from trading on NASDAQ (RHAT) to the New York Stock Exchange (RHT). In 2007 Red Hat acquired MetaMatrix and made an agreement with Exadel to distribute its software.
+
+On March 15, 2007, Red Hat released Red Hat Enterprise Linux 5, and in June acquired Mobicents. On March 13, 2008, Red Hat acquired Amentra, a provider of systems integration services for service-oriented architecture, business process management, systems development and enterprise data services.
+
+On July 27, 2009, Red Hat replaced CIT Group in Standard and Poor's 500 stock index, a diversified index of 500 leading companies of the U.S. economy.[32][33] This was reported as a major milestone for Linux.[34][35]
+
+On December 15,      2009, it was reported that Red Hat will pay US$8.8 million to settle a class action lawsuit related to the restatement of financial results from July 2004. The suit had been pending in U.S. District Court for the Eastern District of North Carolina. Red Hat reached the proposed settlement agreement and recorded a one-time charge of US$8.8 million for the quarter that ended Nov. 30.[36]
+
+On January 10, 2011, Red Hat announced that it would expand its headquarters in two phases, adding 540 employees to the Raleigh operation, and investing over US$109 million. The state of North Carolina is offering up to US$15 million in incentives. The second phase involves "expansion into new technologies such as software virtualization and technology cloud offerings".[37]
+
+
+
+
+
+
+Red Hat Tower with earlier company logo
+On August 25, 2011, Red Hat announced it would move about 600 employees from the N.C. State Centennial Campus to the Two Progress Plaza building.[38] A ribbon cutting ceremony was held June 24, 2013, in the re-branded Red Hat Headquarters.[39]
+
+In 2012, Red Hat became the first one-billion dollar open-source company, reaching US$1.13 billion in annual revenue during its fiscal year.[40] Red Hat passed the $2 billion benchmark in 2015. As of February 2018 the company's annual revenue was nearly $3 billion.[41]
+
+On October 16, 2015, Red Hat announced its acquisition of IT automation startup Ansible, rumored for an estimated US$100 million.[42]
+
+In June 2017, Red Hat announced Red Hat Hyperconverged Infrastructure (RHHI) 1.0 software product[43]
+
+n 1993, Bob Young incorporated the ACC Corporation, a catalog business that sold Linux and Unix software accessories. In 1994, Marc Ewing created his own Linux distribution, which he named Red Hat Linux[15] (associated with the time Ewing wore a red Cornell University lacrosse hat, given to him by his grandfather, while attending Carnegie Mellon University[16][17][18]). Ewing released the software in October, and it became known as the Halloween release. Young bought Ewing's business in 1995,[clarification needed] and the two merged to become Red Hat Software, with Young serving as chief executive officer (CEO).
+
+Red Hat went public on August 11, 1999, achieving—at the time—the eighth-biggest first-day gain in the history of Wall Street.[15] Matthew Szulik succeeded Bob Young as CEO in December of that year.[19] Bob Young went on to found the online print on demand and self-publishing company, Lulu in 2002.
+
+On November 15, 1999, Red Hat acquired Cygnus Solutions. Cygnus provided commercial support for free software and housed maintainers of GNU software products such as the GNU Debugger and GNU Binutils. One of the founders of Cygnus, Michael Tiemann, became the chief technical officer of Red Hat and by 2008 the vice president of open-source affairs. Later Red Hat acquired WireSpeed, C2Net and Hell's Kitchen Systems.[20]
+
+In February 2000, InfoWorld awarded Red Hat its fourth consecutive "Operating System Product of the Year" award for Red Hat Linux 6.1.[21] Red Hat acquired Planning Technologies, Inc. in 2001 and AOL's iPlanet directory and certificate-server software in 2004.
+
+Red Hat moved its headquarters from Durham to North Carolina State University's Centennial Campus in Raleigh, North Carolina in February 2002. In the following month Red Hat introduced Red Hat Linux Advanced Server,[22][23] later renamed Red Hat Enterprise Linux (RHEL). Dell,[24] IBM,[25] HP[26] and Oracle Corporation[27] announced their support of the platform.[28]
+
+In December 2005, CIO Insight magazine conducted its annual "Vendor Value Survey", in which Red Hat ranked #1 in value for the second year in a row.[29] Red Hat stock became part of the NASDAQ-100 on December 19, 2005.
+
+Red Hat acquired open-source middleware provider JBoss on June 5, 2006, and JBoss became a division of Red Hat. On September 18, 2006, Red Hat released the Red Hat Application Stack, which integrated the JBoss technology and which was certified by other well-known software vendors.[30][31] On December 12, 2006, Red Hat stock moved from trading on NASDAQ (RHAT) to the New York Stock Exchange (RHT). In 2007 Red Hat acquired MetaMatrix and made an agreement with Exadel to distribute its software.
+
+On March 15, 2007, Red Hat released Red Hat Enterprise Linux 5, and in June acquired Mobicents. On March 13, 2008, Red Hat acquired Amentra, a provider of systems integration services for service-oriented architecture, business process management, systems development and enterprise data services.
+
+On July 27, 2009, Red Hat replaced CIT Group in Standard and Poor's 500 stock index, a diversified index of 500 leading companies of the U.S. economy.[32][33] This was reported as a major milestone for Linux.[34][35]
+
+On December 15, 2009, it was reported that Red Hat will pay US$8.8 million to settle a class action lawsuit related to the restatement of financial results from July 2004. The suit had been pending in U.S. District Court for the Eastern District of North Carolina. Red Hat reached the proposed settlement agreement and recorded a one-time charge of US$8.8 million for the quarter that ended Nov. 30.[36]
+
+On January 10, 2011, Red Hat announced that it would expand its headquarters in two phases, adding 540 employees to the Raleigh operation, and investing over US$109 million. The state of North Carolina is offering up to US$15 million in incentives. The second phase involves "expansion into new technologies such as software virtualization and technology cloud offerings".[37]
+
+
+
+Red Hat Tower with earlier company logo
+On August 25, 2011, Red Hat announced it would move about 600 employees from the N.C. State Centennial Campus to the Two Progress Plaza building.[38] A ribbon cutting ceremony was held June 24, 2013, in the re-branded Red Hat Headquarters.[39]
+
+In 2012, Red Hat became the first one-billion dollar open-source company, reaching US$1.13 billion in annual revenue during its fiscal year.[40] Red Hat passed the $2 billion benchmark in 2015. As of February 2018 the company's annual revenue was nearly $3 billion.[41]
+
+On October 16, 2015, Red Hat announced its acquisition of IT automation startup Ansible, rumored for an estimated US$100 million.[42]
+
+In June 2017, Red Hat announced Red Hat Hyperconverged Infrastructure (RHHI) 1.0 software product[43]
+
+n 1993, Bob Young incorporated the ACC Corporation, a catalog business that sold Linux and Unix software accessories. In 1994, Marc Ewing created his own Linux distribution, which he named Red Hat Linux[15] (associated with the time Ewing wore a red Cornell University lacrosse hat, given to him by his grandfather, while attending Carnegie Mellon University[16][17][18]). Ewing released the software in October, and it became known as the Halloween release. Young bought Ewing's business in 1995,[clarification needed] and the two merged to become Red Hat Software, with Young serving as chief executive officer (CEO).
+
+Red Hat went public on August 11, 1999, achieving—at the time—the eighth-biggest first-day gain in the history of Wall Street.[15] Matthew Szulik succeeded Bob Young as CEO in December of that year.[19] Bob Young went on to found the online print on demand and self-publishing company, Lulu in 2002.
+
+On November 15, 1999, Red Hat acquired Cygnus Solutions. Cygnus provided commercial support for free software and housed maintainers of GNU software products such as the GNU Debugger and GNU Binutils. One of the founders of Cygnus, Michael Tiemann, became the chief technical officer of Red Hat and by 2008 the vice president of open-source affairs. Later Red Hat acquired WireSpeed, C2Net and Hell's Kitchen Systems.[20]
+
+In February 2000, InfoWorld awarded Red Hat its fourth consecutive "Operating System Product of the Year" award for Red Hat Linux 6.1.[21] Red Hat acquired Planning Technologies, Inc. in 2001 and AOL's iPlanet directory and certificate-server software in 2004.
+
+Red Hat moved its headquarters from Durham to North Carolina State University's Centennial Campus in Raleigh, North Carolina in February 2002. In the following month Red Hat introduced Red Hat Linux Advanced Server,[22][23] later renamed Red Hat Enterprise Linux (RHEL). Dell,[24] IBM,[25] HP[26] and Oracle Corporation[27] announced their support of the platform.[28]
+
+In December 2005, CIO Insight magazine conducted its annual "Vendor Value Survey", in which Red Hat ranked #1 in value for the second year in a row.[29] Red Hat stock became part of the NASDAQ-100 on December 19, 2005.
+
+Red Hat acquired open-source middleware provider JBoss on June 5, 2006, and JBoss became a division of Red Hat. On September 18, 2006, Red Hat released the Red Hat Application Stack, which integrated the JBoss technology and which was certified by other well-known software vendors.[30][31] On December 12, 2006, Red Hat stock moved from trading on NASDAQ (RHAT) to the New York Stock Exchange (RHT). In 2007 Red Hat acquired MetaMatrix and made an agreement with Exadel to distribute its software.
+
+On March 15, 2007, Red Hat released Red Hat Enterprise Linux 5, and in June acquired Mobicents. On March 13, 2008, Red Hat acquired Amentra, a provider of systems integration services for service-oriented architecture, business process management, systems development and enterprise data services.
+
+On July 27, 2009, Red Hat replaced CIT Group in Standard and Poor's 500 stock index, a diversified index of 500 leading companies of the U.S. economy.[32][33] This was reported as a major milestone for Linux.[34][35]
+
+On December 15, 2009, it was reported that Red Hat will pay US$8.8 million to settle a class action lawsuit related to the restatement of financial results from July 2004. The suit had been pending in U.S. District Court for the Eastern District of North Carolina. Red Hat reached the proposed settlement agreement and recorded a one-time charge of US$8.8 million for the quarter that ended Nov. 30.[36]
+
+On January 10, 2011, Red Hat announced that it would expand its headquarters in two phases, adding 540 employees to the Raleigh operation, and investing over US$109 million. The state of North Carolina is offering up to US$15 million in incentives. The second phase involves "expansion into new technologies such as software virtualization and technology cloud offerings".[37]
+
+
+
+Red Hat Tower with earlier company logo
+On August 25, 2011, Red Hat announced it would move about 600 employees from the N.C. State Centennial Campus to the Two Progress Plaza building.[38] A ribbon cutting ceremony was held June 24, 2013, in the re-branded Red Hat Headquarters.[39]
+
+In 2012, Red Hat became the first one-billion dollar open-source company, reaching US$1.13 billion in annual revenue during its fiscal year.[40] Red Hat passed the $2 billion benchmark in 2015. As of February 2018 the company's annual revenue was nearly $3 billion.[41]
+
+On October 16, 2015, Red Hat announced its acquisition of IT automation startup Ansible, rumored for an estimated US$100 million.[42]
+
+In June 2017, Red Hat announced Red Hat Hyperconverged Infrastructure (RHHI) 1.0 software product[43]
+
+n 1993, Bob Young incorporated the ACC Corporation, a catalog business that sold Linux and Unix software accessories. In 1994, Marc Ewing created his own Linux distribution, which he named Red Hat Linux[15] (associated with the time Ewing wore a red Cornell University lacrosse hat, given to him by his grandfather, while attending Carnegie Mellon University[16][17][18]). Ewing released the software in October, and it became known as the Halloween release. Young bought Ewing's business in 1995,[clarification needed] and the two merged to become Red Hat Software, with Young serving as chief executive officer (CEO).
+
+Red Hat went public on August 11, 1999, achieving—at the time—the eighth-biggest first-day gain in the history of Wall Street.[15] Matthew Szulik succeeded Bob Young as CEO in December of that year.[19] Bob Young went on to found the online print on demand and self-publishing company, Lulu in 2002.
+
+On November 15, 1999, Red Hat acquired Cygnus Solutions. Cygnus provided commercial support for free software and housed maintainers of GNU software products such as the GNU Debugger and GNU Binutils. One of the founders of Cygnus, Michael Tiemann, became the chief technical officer of Red Hat and by 2008 the vice president of open-source affairs. Later Red Hat acquired WireSpeed, C2Net and Hell's Kitchen Systems.[20]
+
+In February 2000, InfoWorld awarded Red Hat its fourth consecutive "Operating System Product of the Year" award for Red Hat Linux 6.1.[21] Red Hat acquired Planning Technologies, Inc. in 2001 and AOL's iPlanet directory and certificate-server software in 2004.
+
+Red Hat moved its headquarters from Durham to North Carolina State University's Centennial Campus in Raleigh, North Carolina in February 2002. In the following month Red Hat introduced Red Hat Linux Advanced Server,[22][23] later renamed Red Hat Enterprise Linux (RHEL). Dell,[24] IBM,[25] HP[26] and Oracle Corporation[27] announced their support of the platform.[28]
+
+In December 2005, CIO Insight magazine conducted its annual "Vendor Value Survey", in which Red Hat ranked #1 in value for the second year in a row.[29] Red Hat stock became part of the NASDAQ-100 on December 19, 2005.
+
+Red Hat acquired open-source middleware provider JBoss on June 5, 2006, and JBoss became a division of Red Hat. On September 18, 2006, Red Hat released the Red Hat Application Stack, which integrated the JBoss technology and which was certified by other well-known software vendors.[30][31] On December 12, 2006, Red Hat stock moved from trading on NASDAQ (RHAT) to the New York Stock Exchange (RHT). In 2007 Red Hat acquired MetaMatrix and made an agreement with Exadel to distribute its software.
+
+On March 15, 2007, Red Hat released Red Hat Enterprise Linux 5, and in June acquired Mobicents. On March 13, 2008, Red Hat acquired Amentra, a provider of systems integration services for service-oriented architecture, business process management, systems development and enterprise data services.
+
+On July 27, 2009, Red Hat replaced CIT Group in Standard and Poor's 500 stock index, a diversified index of 500 leading companies of the U.S. economy.[32][33] This was reported as a major milestone for Linux.[34][35]
+
+On December 15, 2009, it was reported that Red Hat will pay US$8.8 million to settle a class action lawsuit related to the restatement of financial results from July 2004. The suit had been pending in U.S. District Court for the Eastern District of North Carolina. Red Hat reached the proposed settlement agreement and recorded a one-time charge of US$8.8 million for the quarter that ended Nov. 30.[36]
+
+On January 10, 2011, Red Hat announced that it would expand its headquarters in two phases, adding 540 employees to the Raleigh operation, and investing over US$109 million. The state of North Carolina is offering up to US$15 million in incentives. The second phase involves "expansion into new technologies such as software virtualization and technology cloud offerings".[37]
+
+
+
+Red Hat Tower with earlier company logo
+On August 25, 2011, Red Hat announced it would move about 600 employees from the N.C. State Centennial Campus to the Two Progress Plaza building.[38] A ribbon cutting ceremony was held June 24, 2013, in the re-branded Red Hat Headquarters.[39]
+
+In 2012, Red Hat became the first one-billion dollar open-source company, reaching US$1.13 billion in annual revenue during its fiscal year.[40] Red Hat passed the $2 billion benchmark in 2015. As of February 2018 the company's annual revenue was nearly $3 billion.[41]
+
+On October 16, 2015, Red Hat announced its acquisition of IT automation startup Ansible, rumored for an estimated US$100 million.[42]
+
+In June 2017, Red Hat announced Red Hat Hyperconverged Infrastructure (RHHI) 1.0 software product[43]
+
