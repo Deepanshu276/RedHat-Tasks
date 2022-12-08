@@ -1,6 +1,6 @@
 # RedHat-Tasks
 
-This Repositery Contains solution of all the RedHat Tasks
+This Repositery Contains solution  all the RedHat Tasks
 
 ## Task1
 
