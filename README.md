@@ -45,4 +45,8 @@ Write Go codes for
 ```
 ![output](https://github.com/Deepanshu276/RedHat-Tasks/blob/master/goTask2/output.png "output")
 
+## Go Task3
+```
+Build a simple web server in go. Use your creativity to enhance it.
 
+```
